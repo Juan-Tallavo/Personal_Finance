@@ -1,2 +1,2 @@
 # Personal_Finance
- Script to automatically sort and track personal spending
+Python script to automatically sort and track personal spending
